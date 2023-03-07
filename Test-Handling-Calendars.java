@@ -35,7 +35,7 @@ public class TestHandlingCalendars {
 		 */
 		
 		
-		String dateToSet= "14/01/2015";
+		String dateToSet= "14/01/2023";
 		
 		//get current date
 		getCurrentDateMonthAndYear();
